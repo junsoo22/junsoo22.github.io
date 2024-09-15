@@ -2,7 +2,7 @@
 title: Insertion Sort
 author: JS
 date: 2024-09-14 21:30:00 +0900
-categories: [Sorting, Algorithm, Time Complexity, Insertion]
+categories: [Algorithm, Sort, Time Complexity, Insertion sort, ]
 tags: []
 render_with_liquid: false
 published: true
