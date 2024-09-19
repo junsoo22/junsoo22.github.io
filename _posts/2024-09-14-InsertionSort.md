@@ -34,6 +34,7 @@ ex) List: <5,2,4,6,1,3>
         while i > 0 and arr[i - 1] > arr[i]:
             arr[i - 1], arr[i] = arr[i], arr[i - 1]
             i -= 1
+            print(end,arr)
 
 arr=[5,2,8,6,1,9,3,7]
 insertSort(arr)
