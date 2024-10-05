@@ -28,8 +28,11 @@ url: "https://junsoo22.github.io"
 github:
   username: junsoo22 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
+
+instagram:
+  username: jjj_sssooo
 
 social:
   # Change to your full name.
@@ -40,7 +43,7 @@ social:
     # The first element serves as the copyright owner's link
     ## - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/junsoo22 # change to your GitHub homepage
-    - https://www.instagram.com/jjj_sssooo/
+    - https://www.instagram.com/jjj_sssooo
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
