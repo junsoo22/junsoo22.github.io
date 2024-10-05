@@ -7,7 +7,7 @@
 #   icon: "fa-brands fa-x-twitter"
 
 - type: instagram
-- icon: 'fab fa-instagram'
+- icon: "fab fa-instagram"
 
 - type: email
   icon: "fas fa-envelope"
